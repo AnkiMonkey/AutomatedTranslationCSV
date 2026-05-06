@@ -19,17 +19,6 @@ A Python script for machine translation of vocabulary lists from one language to
 - pandas
 - translate
 
-## Installation
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   cd 9-Translating-Excel
-   ```
-2. Install dependencies:
-   ```
-   pip install pandas translate
-   ```
-
 ## Usage
 1. Prepare your input CSV file as `input.csv` with columns for source language (e.g., 'German').
 2. Run the script:
@@ -44,6 +33,3 @@ A Python script for machine translation of vocabulary lists from one language to
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License.
